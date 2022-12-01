@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Git Demo Html</title>
+    </head>
+    <body>
+        <h1>Dinesh git demo html file</h1>
+        <p>
+            I myself Dinesh is writing the first html code to demo for git.
+        </p>
+    </body>
+</html>
